@@ -1,9 +1,8 @@
-![Canva Design](image.png)
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/036/431/995/small_2x/ai-generated-colorful-starry-sky-with-sunset-background-in-anime-style-generative-ai-photo.jpg" />
+</p>
 
-<img align="right" height="270px" src="https://www.canva.com/design/DAGH6gEDNqk/U9EjjolXuIl0bPsJenzQOQ/view?utm_content=DAGH6gEDNqk&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
-
-
-  <h1 align="center"><b>Hey, Abdul Ahad Here!!👋</b></h1>
+<h1 align="center"><b>Hey, Abdul Ahad Here!!👋</b></h1>
 </p>
 <p align="center">
 <br>
@@ -13,7 +12,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVxcHp4d2I2aWNnaGJrNWdpaGc4ZjA0M2NvdXppdzVyZDVzYXp3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" />
+<img align="right" height="270px" src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" />
 
 ### I am an Application Consultant at Techlogix
 - 🌱 I’m currently learning AI, Cloud, and Oracle Databases :grin:
