@@ -20,7 +20,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Learn everything that I can and apply it to solve problems.
-- ⚡ Fun fact: I love to play football, watch anime and develop things from scratch :raised_hands:
+- ⚡ I wish to learn Quantum Computing and AI so that I may contribute towards its research
 - 🚀 Aspiring to be an entrepreneur.
 
 <br>
