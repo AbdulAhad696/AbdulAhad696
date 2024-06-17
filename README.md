@@ -1,5 +1,8 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
+![Canva Design](image.png)
+
+<img align="right" height="270px" src="https://www.canva.com/design/DAGH6gEDNqk/U9EjjolXuIl0bPsJenzQOQ/view?utm_content=DAGH6gEDNqk&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
+
+
   <h1 align="center"><b>Hey, Abdul Ahad Here!!👋</b></h1>
 </p>
 <p align="center">
@@ -10,12 +13,11 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" />
+<img align="right" height="270px" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVxcHp4d2I2aWNnaGJrNWdpaGc4ZjA0M2NvdXppdzVyZDVzYXp3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" />
 
 ### I am an Application Consultant at Techlogix
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning AI, Cloud, and Oracle Databases.
-- 👯 I’m looking to work as a freelancer and on side projects :wink:
+- 🌱 I’m currently learning AI, Cloud, and Oracle Databases :grin:
+- 👯 I’m looking to work on side projects :wink:
 - 🥅 2024 Goals: Incubate ideas for launching a line of software products.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
