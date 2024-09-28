@@ -15,7 +15,7 @@
 <img align="right" height="270px" src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" />
 
 ### I am an Application Consultant at Techlogix
-- 🌱 I’m currently learning AI and Cloud
+- 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to work on side projects
 - 🥅 Goals: Incubate ideas for launching a line of software products.
 - ⚡ I wish to learn Quantum Computing and AI so that I may contribute towards its research
